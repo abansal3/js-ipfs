@@ -67,7 +67,7 @@
     "stream-to-it": "^0.2.0"
   },
   "devDependencies": {
-    "aegir": "21.9.0",
+    "aegir": "21.9.2",
     "cross-env": "^7.0.0",
     "go-ipfs-dep": "0.4.23-3",
     "interface-ipfs-core": "^0.134.0",
